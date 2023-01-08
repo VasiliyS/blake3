@@ -1,6 +1,5 @@
 #[macro_use]
 extern crate rustler;
-extern crate rustler_codegen;
 
 extern crate blake3;
 

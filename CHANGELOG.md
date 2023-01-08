@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.5.1 (unreleased)
+
+- Enhancements
+  
+  - updated blake3 version to 1.3.3
+  - updated rustler to 0.26.0
+  - added ARM64 target for MacOS to .cargo/config
+  - updated Elixir to 1.14
+  - updated exdoc to 0.29
+  - updated config to Config as Mix.Config is deprecated
+
 ## v0.5.0 (unreleased)
 
 - Enhancements

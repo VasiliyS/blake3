@@ -1,4 +1,6 @@
-use Mix.Config
+import Config
+
+import_config "#{config_env()}.exs"
 
 config :blake3, Blake3.Native,
   mode: :release,
